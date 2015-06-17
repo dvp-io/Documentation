@@ -44,4 +44,5 @@ Suite à certains changements cette API fournit une liste d'alias prédéfinis, 
 la prévention aurpès de vos utilisateurs. Cette liste est suceptible d'avoluer régulièrement, il est donc fortement conseillé de la mettre à jour lors de chaque démarrage de votre application.
 
 [Retour au sommaire des API](./README.md)
+
 [Retour à l'index](./README.md)
