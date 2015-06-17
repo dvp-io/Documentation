@@ -24,7 +24,7 @@ sans indiquer de valeur.
 ```
 https://api.dvp.io/alias/?sid=session&key=toto&value=tata
 ```
-La valeur de l'alias `toto` prend `tata` pour valeur
+L'alias `toto` prend `tata` pour valeur
 
 ### Supression d'un Alias
 ```

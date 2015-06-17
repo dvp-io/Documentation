@@ -44,4 +44,5 @@ En cas d'erreur un message est indiqué est retourné, l'ID indique d'où provie
 > Obtenez plus de 300 smileys disponibles pour tous et intégrez les facilement à votre application
 
 
-[Retour à l'index](../README.md)
+###### Navigation rapide
+* [Retour à l'index](../README.md)
