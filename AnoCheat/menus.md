@@ -14,7 +14,7 @@ AC_addButton('Mon premier bouton', callback);
 ```
 
 ###### Bon à savoir
-Vous pouvez interagir facilement avec le menu et bouton :
+Vous pouvez interagir facilement avec le menu/bouton :
 
 ```Javascript
 AC_addButton('Mon premier bouton', function() {
