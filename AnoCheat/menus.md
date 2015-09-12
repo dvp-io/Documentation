@@ -26,5 +26,5 @@ Au clic sur le bouton son texte sera barré
 ![](http://media.dvp.io/anocheat/preview/premier_bouton.png)
 
 ###### Navigation rapide
-[Retour au sommaire des AnoCheat](./readme.md)
-[Retour à l'index]('../readme.md)
+* [Retour au sommaire des AnoCheat](./readme.md)
+* [Retour à l'index]('../readme.md)

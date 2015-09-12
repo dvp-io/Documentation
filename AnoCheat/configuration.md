@@ -16,5 +16,5 @@ AC_configRead('moduleName');
 `AC_configWrite()` n'écrit que les clés renseignées et ne touche pas les autres valeurs. Pour effacer une clé remplacez sa valeur par `undefined`
 
 ###### Navigation rapide
-[Retour au sommaire des Anocheat](./readme.md)
-[Retour à l'index]('../readme.md)
+* [Retour au sommaire des Anocheat](./readme.md)
+* [Retour à l'index]('../readme.md)

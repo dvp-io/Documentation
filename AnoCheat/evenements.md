@@ -9,7 +9,7 @@ de compatibilités en cas de changements.
 AC_on('nom', callback(data));
 ```
 
-## Emmettre un événement
+## Emettre un événement
 ```Javascript
 AC_emit('nom', data);
 ```
@@ -28,5 +28,5 @@ AC_emit('Gecko', 'ce mec est top!');
 Cet exemple affichera `ce mec est top!` dans la console du navigateur
 
 ###### Navigation rapide
-[Retour au sommaire des AnoCheat](./readme.md)
-[Retour à l'index]('../readme.md)
+* [Retour au sommaire des AnoCheat](./readme.md)
+* [Retour à l'index]('../readme.md)

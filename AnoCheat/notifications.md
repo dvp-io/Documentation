@@ -17,5 +17,5 @@ AC_notify('Hello world!');
 ```
 
 ###### Navigation rapide
-[Retour au sommaire des Anocheat](./readme.md)
-[Retour à l'index]('../readme.md)
+* [Retour au sommaire des Anocheat](./readme.md)
+* [Retour à l'index]('../readme.md)
