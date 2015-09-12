@@ -24,7 +24,7 @@ sans indiquer de valeur.
 ```
 https://api.dvp.io/alias/?sid=session&key=toto&value=tata
 ```
-L'alias `toto` prend `tata` pour valeur
+L'alias `toto` prend pour valeur `tata`
 
 ### Supression d'un Alias
 ```
@@ -41,7 +41,7 @@ Tous les alias existants ont étés supprimés
 
 ## Les alias par défaut
 Suite à certains changements cette API fournit une liste d'alias prédéfinis, ces alias sont les mots SMS qui sont interdits sur le chat. Ceci vous permet de les intégrer à votre application cliente afin de faire de 
-la prévention aurpès de vos utilisateurs. Cette liste est suceptible d'avoluer régulièrement, il est donc fortement conseillé de la mettre à jour lors de chaque démarrage de votre application.
+la prévention aurpès des utilisateurs. Cette liste est suceptible d'avoluer régulièrement, il est donc fortement conseillé de la mettre à jour lors de chaque démarrage de votre application.
 
 ###### Navigation rapide
 * [Retour au sommaire des API](./README.md)

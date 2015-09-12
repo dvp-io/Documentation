@@ -17,10 +17,17 @@ Quelque soit l'API les données sont toujours structurées de la même manière:
 }
 ```
 
-En cas d'erreur un message est indiqué est retourné, l'ID indique d'où proviens l'erreur, le message permet de connaitre le détail 
+En cas d'erreur un message est retourné, l'ID indique d'où proviens l'erreur, le message permet de résoudre le problème.
 ```Javascript
 {
   error: { id: 'string', msg: 'string' }
+}
+```
+
+En cas de succès un message est retourné en l'absence de données.
+```
+{
+  success: { msg: 'string' }
 }
 ```
 
@@ -35,7 +42,7 @@ En cas d'erreur un message est indiqué est retourné, l'ID indique d'où provie
 * [Cloud](./cloud.md)
 
 * [Feed](./feed.md)
-> Cette API génère un flux contenant les données filtrées vous permettant de vous abonner à un ou plusieurs types de contenus (blog, articles, actualités) et à différente catégories (PHP, JS, C, 3D ect...)
+> Cette API génère un flux vous permettant de vous abonner à un ou plusieurs types de contenus (blog, articles, actualités) et à différentes catégories (PHP, JS, C, 3D ect...)
 
 * [Search](./search.md)
 > Effectuez des recherches par thématique
