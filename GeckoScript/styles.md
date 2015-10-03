@@ -11,14 +11,14 @@ Pour que votre style soit accepté il doit respecter les conditions suivantes :
 
 En cas de retours négatifs vous serez notifiés, vous devez avoir une certaine réactivité pour corriger les problèmes visuels afin de garantir l'expérience des utilisateurs.
 
-## GS_addStyle
-La méthode GS_addStyle vous permet d'ajouter facilement un design à la sélection. Les paramètres sont:
+## GS_styleAdd
+La méthode GS_styleAdd vous permet d'ajouter facilement un design à la sélection. Les paramètres sont:
 
 - **name :** nom du style, ce nom sert de classe parente
 - **css :** Le code CSS de votre style
 
 ```Javascript
-GS_addStyle('name','css');
+GS_styleAdd('name','css');
 ```
 
 ## Mono
